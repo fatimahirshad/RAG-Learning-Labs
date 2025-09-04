@@ -6,7 +6,8 @@ This repository contains my step-by-step assignments exploring **Retrieval-Augme
 ## 📂 Structure
 - **assignment1_embeddings_vectorDB/**
   - Intro to embeddings and vector databases with FAISS.
-- **assignment2_evaluation/** *(coming soon)*
+- **assignment2_evaluation/**
+  - Evaluation of RAG Models step by step.
 - **assignment3_advanced/** *(coming soon)*
 
 ## 🚀 Goal
