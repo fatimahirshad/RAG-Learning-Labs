@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+scikit-learn
+matplotlib
+nltk
+rouge-score
+rapidfuzz
