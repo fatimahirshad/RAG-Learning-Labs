@@ -4,9 +4,9 @@ A collection of practical work exploring embeddings, vector databases, and retri
 This repository contains my step-by-step assignments exploring **Retrieval-Augmented Generation (RAG)**, embeddings, and advanced retrieval techniques.
 
 ## 📂 Structure
-- **assignment1_embeddings_vectorDB/**
+- **assignment1_embeddings+vectorDB+RAG piplines/**
   - Intro to embeddings and vector databases with FAISS.
-- **assignment2_evaluation/**
+- **assignment2_evaluation_RAG/**
   - Evaluation of RAG Models step by step.
 - **assignment3_advanced/** *(coming soon)*
 
