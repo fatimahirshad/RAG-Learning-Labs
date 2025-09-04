@@ -1,15 +1,15 @@
-Assignment 1: Embeddings & Vector Databases
+Assignment 1: Embeddings + Vector DB + RAG pipeline
 
 🎯 Objective
-Hands-on practice with embeddings and vector databases as the foundation of Retrieval-Augmented Generation (RAG).
+Hands-on practice with embeddings and vector databases as the foundation of Retrieval-Augmented Generation (RAG), Build a small Retrieval-Augmented Generation (RAG) pipeline.
 
 ✅ Tasks Completed
-1. Preprocessed a small set of sample documents.
-2. Generated **sentence embeddings** using `SentenceTransformer`.
-3. Stored embeddings in a **FAISS vector database**.
-4. Implemented **document retrieval** (Top-k search).
-5. Integrated retrieval results with a **baseline LLM** to build a simple **RAG pipeline**.
-6. Tested with user queries to demonstrate retrieval + generation.
+1. Collect ~20–30 documents
+2. Generate embeddings (Sentence-BERT)
+3. Store embeddings in FAISS
+4. Retrieve top-k documents for a query
+5. Use an LLM (OpenAI GPT if you supply a key, otherwise HF flan-t5-base) to answer using retrieved context
+6. Demo with 5 queries and interactive queries
 
 ⚙️ How to Run
 1. Clone this repo and install dependencies:
