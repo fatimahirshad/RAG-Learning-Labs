@@ -1,0 +1,7 @@
+ **with main dependencies**
+faiss-cpu
+pinecone-client
+scikit-learn
+pandas
+matplotlib
+tabulate
